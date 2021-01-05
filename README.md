@@ -7,6 +7,10 @@ List of features I want to achieve:
 - As a user I want to be updated that my potatoes are ready to pick
 - Login for specific user 
 
+## Additional features:
+- Based on location app can suggest what to plant
+- App can suggest flowers that would be beneficial to local wildlife
+
 ## Technical decisions:
 - React front end 
 - Laravel back end
