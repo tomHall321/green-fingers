@@ -13,7 +13,7 @@ List of features I want to achieve:
 
 ## Technical decisions:
 - React front end 
-- Laravel back end, can be viewed [here](https://github.com/tomHall321/green-fingers-back-end).
+- Laravel back end, can be viewed [here](https://github.com/tomHall321/green_fingers_back_end).
 
 # Getting Started with Create React App
 
