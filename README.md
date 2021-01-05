@@ -1,3 +1,16 @@
+## MVP:
+An app that can provide info to gardeners on when to plant and when to pick.
+ 
+List of features I want to achieve:
+
+- As a user I want to find out when to plant potatoes
+- As a user I want to be updated that my potatoes are ready to pick
+- Login for specific user 
+
+## Technical decisions:
+- React front end 
+- Laravel back end
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
